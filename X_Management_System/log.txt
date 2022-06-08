@@ -1,0 +1,22 @@
+5월 23, 2022 4:39:23 오후 log.EventLogger log
+INFO: add a student
+5월 23, 2022 4:39:26 오후 log.EventLogger log
+INFO: view a student
+6월 03, 2022 12:13:08 오후 log.EventLogger log
+INFO: print a student
+6월 03, 2022 12:13:12 오후 log.EventLogger log
+INFO: program exit
+6월 03, 2022 12:49:14 오후 log.EventLogger log
+INFO: add a student
+6월 03, 2022 12:49:31 오후 log.EventLogger log
+INFO: add a student
+6월 03, 2022 12:50:07 오후 log.EventLogger log
+INFO: add a student
+6월 03, 2022 12:50:16 오후 log.EventLogger log
+INFO: add a student
+6월 03, 2022 12:50:24 오후 log.EventLogger log
+INFO: add a student
+6월 03, 2022 12:50:33 오후 log.EventLogger log
+INFO: add a student
+6월 03, 2022 12:50:47 오후 log.EventLogger log
+INFO: program exit
